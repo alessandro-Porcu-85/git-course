@@ -5,3 +5,5 @@ estamos listo por el merge
 =======
 voy a nuevo cambio
 >>>>>>> Stashed changes
+
+cambio nuevo antes del merge
