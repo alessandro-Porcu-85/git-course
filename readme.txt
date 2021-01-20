@@ -1,9 +1,7 @@
 Bienvenidos al proyecto XXX
-voy a poner un cambio
-<<<<<<< Updated upstream
-estamos listo por el merge
-=======
-voy a nuevo cambio
->>>>>>> Stashed changes
+voy a poner un cambio de Dev-3
+otro mas cambio_Dev-3
+MERGE Dev-3 into Dev-1
+MERGE Dev-3 into Dev-2
 
-cambio nuevo antes del merge
+MERGE_MERGE
