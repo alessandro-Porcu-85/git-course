@@ -7,3 +7,5 @@ MERGE Dev-3 into Dev-2
 MERGE_MERGE
 
 Hola, Ultimo cambio!!!
+
+Cambio por Conflicto!
